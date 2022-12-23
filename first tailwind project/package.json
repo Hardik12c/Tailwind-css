@@ -1,0 +1,14 @@
+{
+  "name": "first-tailwind-project",
+  "version": "1.0.0",
+  "description": "this is the tailwind learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hardik Garg",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
